@@ -1,0 +1,140 @@
+﻿Mark V Bertolina
+mark@bertolina.org
+866-GET-MARK
+════════════════════════════════════════════════
+Objective: Continued development as an engineering professional.  Opportunity to work with a group of like minded people on industry disruptive technology.
+
+Summary
+An accomplished engineering manager with ongoing deep direct work in software, electronics, wireless, instrumentation, hazardous area product certification, and IT.  Formally educated as an Electrical Engineer concentrated in signal processing and systems modeling.  Experience in electronics design and construction, scientific research, and computer programming.  Skilled technical writer.  A responsible, self-starting, multi-tasker who works well in teams with experience forming, leading, and managing teams.  
+
+Related Experience
+
+Chief Architect \ Senior Engineering Manager								2009 - Present
+RF & Industrial Metrology Engineer								          Oct 2005–2009
+Intern Engineer	(Adaptive Wireless Solutions \ Adaptive Instruments Corp., Hudson MA)		Jan-May 2005
+• Expanded engineering department forming and leading team(s) to focus on entirely new developments :
+•• Octave band industrial acoustic instrument for coal mills
+•• Industrial instrument family using Bluetooth Low Energy, WirelessHART & WiFi meeting 60079-11 IS
+•• 10+ year battery BLE product line utilizing novel wireless networking & streamlined Cloud integration
+•• Active Object Framework researched, chosen and standardized embedded software team workflow to be based on design patterns utilizing UML graphical hierarchical state machine layout tool, C 99 MISRA complaint code output , asynchronous message based event loop for minimizing power consumption. (Quantum Leaps QP/C & QM)
+(In all of the above : lead designer, team tool selection and workflow organization, as well as direct implementer / engineer for some components)
+• “No Internet” WiFi / Browser UI Architected, implemented, and tested for an industrial instrument focusing on usability in a harsh environment with restricted human motion (protective clothing).  The UI web page was a real time display and control served from constrained device (file size and bandwidth), mixing traditional web-page methods HTML 5,  CSS 3, JavaScript, SVG animation along with minimizing the instrument computational load (packed binary structures instead of JSON).  Implemented server in uProcessor C 99 for both dynamic event streams and an embedded file system (NANDFS & BLE network filesystem) mapping.  Implemented test suite in node.js
+• Low cost test harness Designed and implemented for testing groups of wireless networked instruments, based around a Raspberry Pi.  Each RPI harness attached to the DUT controlling power, SWD programming, serial port debug interface, BLE, & WiFi .  Harnesses were grouped over wired ethernet PoE and set as targets to continuous integration build and test server.  WirelessHART was tested via serial debug commands to DUT and HART/IP commands to a central gateway.  Provided example node.js script for each function then directed and reviewed other engineers to develop modular framework and test scripts.
+• One Time Pad (OTP) encryption system Design utilized a mathematically proven perfect encryption method with novel applications to low power wireless sensor networks. (USPTO pending)  Conventional HMAC utilized for message integrity.  Incorporated feedback from professional independent cryptographer review.
+•IoT gateway  Architect and prototyped a quick but fully functional reference system leveraging in house industrial BLE instruments and GATT proxying, using Raspberry Pi (RPI) / Raspbian, SIG Bluetooth Internet Gateway & GATT REST API, self written node.js code to translate to separate MQTT and MODBUS/TCP streams, two concurrent UI’s on Ignition Historian / HMI and Microsoft Azure IoT Hub with realtime cloud web-page.
+• Patch-wise linear least squares polynomial surface fit Designed and implemented method for MEMS piezo-resistive pressure sensor characterization.  Researched and chose an open source C linear algebra package (CSparse) small enough to fit on embedded uProcessor (ARM Cortex-M3) with excellent code quality and documentation implementing QR decomposition to perform matrix inversion for choosing the best fit surface.  This allowed for development of in the field “calibration upgrades” to the instrument (USPTO pending) .
+• Over The Air update Designed system’s security component based on ECSDA signatures layered within a hierarchical package of update files.  Evaluated and chose embedded C library balancing system resource constraints, code quality, and open source community momentum. (ARM MBED TLS / PolarSSL).  Reviewed integration project to our embedded system coded by another engineer. Separately implemented WiFi / HTTP server and browser based user interface to upload the update package to the embedded system.
+• Pressure Calibration Stand Designed, implemented, commissioned next generation 0-15 to 0-3000 PSI pressure instrument calibration system for Manufacturing group.  Batch accuracy goals went to NIST traceable 0.05% FS over -40 to +85C.  Emphasis was placed on modularity, and forming common APIs over slow to age out interfaces.  PoE wired ethernet conversion of all devices, TCP/IP control API, node.js control logic and UI server, JavaScript web page client.  JSON templates for non-programmer changes.
+• Hazardous Area Product Certifications Consolidated to single NRTL / auditor FM, from group of FM, CSA, Sira, UL.  Saves documentation work, diverging certifications of the same product families, many extra audits.
+• Department Management Ongoing engineering department management, strategic planning, cost accounting.
+• Documentation System Developed and implemented documentation system for engineering and production groups that was low cost, easy to use and manage, and achieved all quality and regulatory requirements.
+• Created supplier workmanship standards
+• Co-taught product technical training course 1 week course presented three times to approximately 25 students per class.  Created from scratch visual, written, and lab materials for product training and review of electromagnetism.
+• Field Work Ability to operate effectively and professionally in hazardous and remote environments during extended travel. Ex: Successfully identified and quickly resolved wireless installations for customer in arctic Alaskan North Slope as well as priority domestic and international customers.  
+• Standards Organizations Represented company as engineer at ISA SP100 (Wireless Systems for Automation).
+• Product Improvements Designed and implemented wireless product improvements such as a multi-factor frequency reference stability.
+• Design Verification Testing Designed procedures for, collected, and analyzed data to characterize existing product specifications such as power consumption and temperature dependencies.
+• Production Equipment Designed and built in-house simulation and test circuits, maintained and improved product factory equipment.
+• Sustaining Engineering Assessed and chose replacements for product sub-components, power supplies, batteries, RS-485 transceiver ICs, radio components, etc.
+
+IT Consultant \ Compeffi.com (Self-employed)								1994-Present
+• Colo / Cloud / Serverless Experience utilizing hosted servers and function services including:
+•• Amazon Web Services – AWS (EC2, S3, Route 53, Glacier, etc)
+•• Microsft Azure – (Virtual Machines, App Services, IoT Hub)
+• VDI Internet delivered Virtual Desktop Infrastructure
+• Virtualization Hypervisor based virtualization, onsite as well as Internet delivered services
+• Networks Advanced network configurations and troubleshooting with managed switches, VLANs, routing, CARP, etc
+• Storage NAS design and deployments with traditional RAID controllers, appliances, and ZFS based OSs.
+• Setup PC, server, and network planning, installation, & configuration
+• Database administration & conversion
+• DR Disaster planning, testing recovery. Virus recovery.
+• Infrastructure IT hardware installation: PCs, wireless APs, server racks, collocation facilities, network cabling, security / fire alarms, telephony / PBX / VoIP
+• Web Development by hand and with systems like Sharepoint, WordPress, etc.  Configuration & maintenance of plethora of web hosts as well as Amazon AWS
+
+IT One Man Band (Adaptive Wireless Solutions \ Adaptive Instruments Corp., Hudson MA)		2008 - Present
+• Maintain written IT strategy and review with company President & CFO.
+• Ongoing maintenance for ~25 person company with office staff, 2 remote workers, and production floor centered around custom PC based production stations.
+• Maintain documentation of system hardware, configuration & settings, and problem history and fixes.
+• SPAM Removal of backup ISP IP address from automated spam blacklists.
+• Internet Gateway Replaced routing and Internet access appliance with hardware redundant OpenBSD systems.  Multi-path ISP implemented without BGP, configured Internet & service redundancy for email, voice, VPN, internal web-access, etc.  Low cost solution with enterprise features.
+• Migration of Win 2000 Server for legacy production line.  W2K virtual machine on VMWare ESXi, maintain legacy production environment involving DOS, Windows 95, ISA bus machine controllers.  $0 cap-ex solution.
+• Web based remote worker password management OWA registry settings and custom C# program scheduled to run nightly that emails users for 7 days before the password expiration based on LDAP AD user property lookups.
+• VoIP Researched and implemented conversion to SIP phone provider from traditional T1s, also implemented IP PBX with traditional PBX trunked into it.  Low capex, lowered monthly bills, maintained parts of existing phone system while implementing new features such as dial-in meet-me room.
+• AD Company-wide conversion to Windows 2008 Active Directory, Active Directory, SQL, Exchange, etc.
+• Virtualization Company-wide conversion to VMWare ESXi hypervisor from traditional server configuration
+
+Intern Engineer (Space and Naval Warfare Systems Center, San Diego CA) [SPAWAR SSC Pacific]	Jun-Sep 2005
+• Underwater Communication Systems Supported research projects through the design and production of complex experimental apparatus.  (ex, Acoustic MIMO Transmitter)
+• Anechoic Pool Characterization of acoustic transmitter at SPWAR TRANSDEC 
+• Field Research Operated experimental apparatus during intensive two week schedule aboard Research Vessel Kilo Moana, part of larger Makai Experiment 2005 off the coast of Kauai’s PMRF.
+• Collaboration Interacted with staff scientists, engineers, contractors, and US NAVY personnel
+
+Research Assistant (WPI Center for Sensory and Physiologic Signal Processing)				2002-2004
+• Data Capture System Created general purpose multi-channel signal conditioners for EMG experiment data capture.  From high-level circuit design to specific component selection, schematics, PCB layout, enclosure, and documentation.  Wrote Matlab program to record and pre-process sessions. Units still in use.
+• Research Conference Presented research findings at the IEEE 30th Annual Northeast Bioengineering Conference.
+• Teamwork Worked in a team research environment contributing to biomedical research, ex. adaptive equalization filters.
+
+Computer Technician (Digital Systems Design Group, Pompano Beach FL)				1997-1999
+• PC & Server configuration, network installation, and systems management.
+
+Computer Technician (MicroAge, East Rutherford NJ)							Summer 1996
+• Work mostly consisted of VAR PC configurations.
+
+Education
+
+Graduate Studies, Electrical Engineering									2004-2005
+Worcester Polytechnic Institute
+
+Bachelors of Science with distinction, Electrical Engineering						1998-2003
+Worcester Polytechnic Institute, ABET accredited
+
+Senior project, 3 course equivalent										2002-2003
+	Active Power-Line Interference Attenuation in Bioamplifiers; Designed and built a circuit which reduces noise in human muscle recordings;  Part of a successful three person team.
+
+Skills
+Ability to communicate engineering to a variety of audiences in both written and verbal form.
+
+Modeling and simulation:
+R / Shiny, SciPy, NumPy, SciLab, Excel / Calc, MATLAB, Maple, SPICE / LTspice, Xilinx ISE, Multisim, Tanner EDA, AutoCAD, Mathematica, SolidWorks, Altium, KiCad
+Programming:
+node.js, C (x86 OS + embedded bare metal), front end web page (HTML5 CSS3 ECMA/JavaScript SVG), bash shell, python, C#, x86 assembly, ASP.NET, Pascal, TI DSP in C and assembly, MS Visual Studio, C++, Java, .BAT scripts DOS & NT, Windows PowerShell scripts, PHP, Perl, Visual Basic, SQL
+git, SourceSafe
+Ability to comment code meaningfully and build hierarchical modules others can use.
+Electronics design:
+Analog – signals, power, noise, electromagnets (RF), safety, instrumentation accuracy by design & by automated characterization stations (electrical, temperature, pressure, etc).  Digital - combinatorial logic, sequential circuits, microprocessors, VHDL.  DSP.  Schematic capture in Altium, KiCAD, Multisim and OrCAD.  PCB laminate layout in Altium and Ultiboard CAD.  Prototypes with bread-board, vector-board, FPGA. Completed class in VLSI design. Assemble, test, and troubleshoot with common lab equipment and self teach use of specialty equipment. In-depth experience in the circuit practices and electromechanical design for industrial process instruments.  Experience in EMG recording systems.  High power electric systems.  Environmental testing with hot/cold chambers, humidity, salt mist, HALT/HASS accelerated aging.  Start to finish Intrinsically Safe design and certification for hazardous areas (explosive atmospheres) for US, CA, and ATEX conformance.
+Protocols Experience :
+	Bluetooth (4.0, BLE, Mesh)
+	802.3 (10BASE2, CAT3/5/6, jumbo frame, VLAN)
+	802.11 (b,g,n WiFi, AP and client implementations)
+	802.15.4 (WirelessHART, Dust, SmartMesh, Zigbee, 6LoWPAN)
+	IPv4/6, TCP, UDP, SIP, RTP, SMTP, HTTP, WebSockets
+	Modbus (RTU TCP)
+	MQTT
+	HART / WirelessHART
+High proficiency in configuring and using Information Technology:
+Linux for desktop (Arch, Ubuntu, etc), FreeBSD including appliance distributions (OPNsense, NAS4Free) ARM64 automation devices (RPI) and internet instances (Scaleway), Supermicro servers and workstations with IPMI, PC’s with MS Windows, HP DL* & Netservers, RAID, Ethernet and TCP/IP networking hardware, Windows Server (NT 3.5 – 2012, Hyper-V) networks and services such as Active Directory, DHCP, DNS, IIS, CA, Exchange, MS SQL, MySQL, PostgreSQL.  NAS design, iSCSI, ZFS.  OpenBSD, VMWare, Linux, DEC Alpha & Digital Unix, DOS, Cygwin, UPS including APC Symmetra and Clary, PLC and VFD programming
+Mechanical:
+Electronics soldering, wire-wrap, hand tools, machine shop, 19” rack installation, communications wiring, control cabinets, NEC knowledge especially related to Hazardous Areas (classified flammable or combustible)
+Publications
+Edward A. Clancy, Hongfang Xia and Mark V. Bertolina, "A Preliminary Report on the Use of Equalization Filters to Derive High Spatial Resolution Electrode Array Montages," International Symposium on Neuromuscular Assessment in the Elderly Worker, ISBN 88-7992-191-6, February 20-21, Torino, Italy, 2004.
+
+M. V. Bertolina, E. A. Clancy, D. Farina and R. Merletti, "Observations and Analysis of Long-Duration, Constant-Posture, Force-Varying, Fatiguing EMG," Proceedings of the IEEE 30th Annual Northeast Bioengineering Conference, IEEE, Springfield, MA, pp. 73-74, 2004.
+
+Edward A. Clancy, Hongfang Xia and Mark V. Bertolina, "Preliminary Results on the Use of Equalization Filters for High Spatial Resolution Electrode Arrays," Proceedings of the Fifteenth Congress of the International Society of Electrophysiology and Kinesiology, ISBN 0-87270-136-0, Boston, MA, pp. 58, June 18-21, 2004.
+
+Certifications
+DSOP \ BATC refinery safety    &    TSA TWIC (ID card)
+FCC licensed amateur radio operator, Technician class, call sign: KB2VPS
+Radio Amateur Civil Emergency Service (R.A.C.E.S.) operator
+Emergency planning, damage assessment, hazardous materials (HAZMAT) first response, first aid, OSHA compliance.
+
+Extracurricular
+Home Vinter – Intense fusion of chemistry, biology, agriculture and the art of wine making.              bertolinawines.com
+Former president of both the WPI Wireless Association and WPI Astronomy Club.
+Received basic training on theory and operation of nuclear reactors, operated WPI research reactor under observation.
+
+
+
+
+
+US Citizen												References on Request

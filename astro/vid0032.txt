@@ -1,0 +1,138 @@
+EMBARGOED UNTIL: 1:00 a.m. (EDT) September 21, 2000
+
+VIDEO NO.: STScI-VID00-32
+
+MOVIES FROM HUBBLE SHOW THE CHANGING FACES OF INFANT STARS
+
+Time-lapse movies made from a series of pictures taken by NASA's Hubble
+Space Telescope are showing astronomers that young stars and their
+surroundings can change dramatically in just weeks or months. As with
+most children, a picture of these youngsters taken today won't look the
+same as one snapped a few months from now. The movies show jets of gas
+plowing into space at hundreds of thousands of miles per hour and moving
+shadows billions of miles in size.
+
+The young star systems featured in the movies, XZ Tauri and HH 30,
+reside about 450 light-years from Earth in the Taurus-Auriga molecular
+cloud, one of the nearest stellar nurseries to our planet. Both systems
+are probably less than a million years old, making them relative
+newborns, given that stars typically live for billions of years.
+Hubble's Wide Field and Planetary Camera 2 first observed them in 1995.
+Those views were so intriguing that additional images were taken in
+1998, 1999, and 2000. The pictures were then combined into movies that
+document startling activity in the early stages of a star's life.
+
+Stars form in clouds of gas and dust that collect into a swirling disk.
+Outflows of gas, like the bubbles and jets seen in these images, occur
+when some of the material feeding the infant star from the surrounding
+disk is diverted away by the star's magnetic field and accelerated out
+its magnetic poles. These outflows are often squeezed into narrow jets
+that can extend many light-years away from the star. Such outflows are a
+common and natural result of stellar birth.
+
+
+XZ Tauri  (STScI-VID00-32a)
+
+XZ Tauri is a young system with two stars orbiting each other. The pair
+is separated by about 4 billion miles (6 billion kilometers), about the
+distance from the Sun to the planet Pluto in our own solar system.
+Hubble astronomers were surprised to discover a bubble of hot, glowing
+gas extending nearly 60 billion miles (96 billion kilometers) from this
+young star system. The bubble's temperature is over 17,500 degrees
+Fahrenheit (9,700 degrees Celsius). The bubble appears much broader than
+the narrow jets seen in other young stars, but it is caused by the same
+process - the ejection of gas from a star. However, the Hubble images do
+not show the disk that feeds the outflow process - or even which star in
+the binary is the outflow source. Additional observations should help to
+point this out.
+
+The movie shows that the outer edge of the bubble moves away from the
+binary system at a speed greater than 300,000 miles per hour (540,000 
+kilometers per hour), which is typical for stellar jets. This rate and
+the size of the bubble indicate that it is only about 30 years old, a
+mere blink of an eye in the life of a star. Sideways expansion of the
+bubble indicates that it has a strong internal pressure. A second bubble
+appears halfway up the waist of the first, indicating that new ejections
+may occur sporadically. Occasionally, bright, compact clumps of gas
+appear and then disperse within the bubble.
+
+Perhaps the most interesting aspect of the bubble is the change in its
+appearance between 1995 and 1998. In the first picture, its edge and
+interior appeared equally bright; in 1998, the edge became distinctly
+brighter. Astronomers theorize that the gas around the bubble's edges
+has cooled, allowing it to glow more strongly as hydrogen and sulfur
+atoms recombine with electrons. Continued expansion of the bubble should
+cause the entire structure to fade from view - until XZ Tauri sends
+another eruption of hot gas into its surroundings.
+
+Credits: John Krist (Space Telescope Science Institute), Karl
+Stapelfeldt (NASA Jet Propulsion Laboratory), Jeff Hester (Arizona State
+University), Chris Burrows (European
+Space Agency/Space Telescope Science Institute)
+
+
+HH 30  (STScI-VID00-32b)
+
+Hubble observations of HH 30 show a pair of thin jets streaming away
+from the center of a dusty disk. The disk, which is over 40 billion
+miles (64 billion kilometers) in diameter, is seen almost edge-on. Like
+a thin, dark cloud moving in front of the Sun, the disk blocks any
+direct view of its central star. All that is seen are the top and bottom
+sides of the dusty disk reflecting light from the star, like the "silver
+lining" of a cloud. The jets reveal the hidden star's location.
+Astronomers are interested in the disk because it is probably similar to
+the one from which the Sun and the planets in our solar system formed.
+
+HH 30's disk and jet show dramatic changes in the six years covered by
+the time-lapse movie. The jets are easiest to explain: as in XZ Tauri,
+material is being ejected along the magnetic poles of the star at speeds
+of between 200,000 and 600,000 miles per hour (320,000 and 960,000
+kilometers per hour). Every few months a compact clump of gas, called a
+knot, is ejected, and may eventually merge with other clumps downstream.
+However, astronomers aren't sure why the knots in the upper jet are
+moving only about half as fast as in the fainter, lower one.
+
+The changes in the disk are quite peculiar: patterns of light appear to
+be moving around within it. Astronomers believe this effect is similar
+to distant clouds being illuminated by the beam from a lighthouse: As
+the light rotates, the clouds seem to brighten and then fade. In the
+case of HH 30, the lighthouse is the star and the inner part of its
+disk, which throws bright rays and casts dark shadows on the outer part
+of the disk. This "lighthouse" in HH 30 appears to be rotating between
+once every few days and once a year. Astronomers hope more observations
+will narrow down that cycle and thus show whether the light patterns are
+shadows cast by material in the disk or beams of light from hot spots on
+the star. 
+
+Credits: Alan Watson (Universidad Nacional Autonoma de Mexico, Mexico), 
+Karl Stapelfeldt (NASA Jet Propulsion Laboratory), John Krist (Space
+Telescope Science Institute), and Chris Burrows (European Space Agency/
+Space Telescope Science Institute)
+
+EDITOR'S NOTE:  For additional information, please contact John Krist,
+Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD
+21218, (phone) 410-338-4901, (e-mail) krist@stsci.edu or Alan Watson,
+Instituto de Astronomia, UNAM, Morelia, Mexico, (phone) 52-56-234748,
+(e-mail) alan@astrosmo.unam.mx or Karl Stapelfeldt, Jet Propulsion
+Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, (phone)
+818-354-2640, (e-mail) krs@exoplanet.jpl.nasa.gov or Jeff Hester,
+Arizona State University, Physics and Astronomy Dept., Box 871504,
+Tempe, AZ, (phone) 480-965-0741, (e-mail) jhester@asu.edu.
+
+Animation and image files are available on the Internet at:
+http://oposite.stsci.edu/pubinfo/pr/2000/32 and via links in
+http://oposite.stsci.edu/pubinfo/latest.html
+http://oposite.stsci.edu/pubinfo/pictures.html and
+http://hubble.stsci.edu/go/news
+
+To receive STScI press releases electronically, send an Internet
+electronic mail message to public-request@stsci.edu. Leave the subject
+line blank.  In the body of the message (not the subject line) type the
+word "subscribe" (don't use quotes). The system will respond with a
+confirmation of the subscription, and you will receive new press
+releases as they are issued. Please subscribe using the email account
+with which you would like to receive list messages. To unsubscribe, send
+mail to public-request@stsci.edu. Leave the subject line blank. Type the
+word "unsubscribe" (don't use quotes) in the body of the message. Please
+unsubscribe using the email account that you used to subscribe to the
+list.
